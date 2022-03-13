@@ -1,4 +1,4 @@
-# ford-manual-to-pdf
+# Ford Manual to PDF
 
 ## Configure nginx
 - download http://nginx.org/en/download.html
